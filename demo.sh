@@ -9,7 +9,7 @@ then
 else
         echo fail
 fi
-shivling
+shivling1
 
 
 
